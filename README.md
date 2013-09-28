@@ -29,6 +29,7 @@ How to Build Platform:
 
 - \external\bluetooth
 - \external\dbus
+- \external\webkit
 - \external\wpa_supplicant_8
 - \hardware\qcom
 
